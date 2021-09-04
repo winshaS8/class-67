@@ -1,3 +1,5 @@
 lion
 cow 
 elephant
+deer
+tiger
